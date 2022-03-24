@@ -1,1 +1,0 @@
-db_password = 'Vb3@boot21@'
